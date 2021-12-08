@@ -1,0 +1,12 @@
+.site-header {
+  height: 40px;
+  background: #FFFFFF;
+}
+.site-header:hover {
+  text-decoration: none;  
+}
+.site-title {
+  padding-left: 35px;
+  font-size: 25px;
+  font-weight: bold;
+}

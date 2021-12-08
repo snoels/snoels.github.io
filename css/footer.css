@@ -1,0 +1,14 @@
+.footer-icon {
+  fill: #606c71;
+  width: 38px;
+  height: 38px;
+  padding: 0px 5px 0px 5px;
+}
+.footer-icon:hover {
+  fill: #DA4567;
+  transform: scale(1.25);
+}
+span {
+  text-decoration:none;
+  display: inline-block;
+} 
