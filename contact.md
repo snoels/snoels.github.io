@@ -18,5 +18,5 @@ Gaston Crommenlaan 12 \
 9050 Ghent \
 Belgium
 
-[<button>Back</button>](./)
+[Back](./)
 
