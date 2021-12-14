@@ -10,6 +10,6 @@ description: Browse through my personal universe.
 
 <img style="float: left; padding-right: 25px;" src="./images/profile_picture.jpeg">
 
-I am a Ph.D. candidate of Ghent University Artificial Intelligence & Data Analysis Group ([AIDA](https://aida.ugent.be/)) while woring as a data scientist for [Silverfin](https://www.silverfin.com/).
+I am a Ph.D. candidate of the Ghent University Artificial Intelligence & Data Analysis group ([AIDA](https://aida.ugent.be/)) while working as a data scientist for [Silverfin](https://www.silverfin.com/).
 
 
