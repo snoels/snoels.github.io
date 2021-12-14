@@ -15,7 +15,7 @@ Belgium
 
 **Data Scientist at [Silverfin](https://www.silverfin.com/)** \
 Gaston Crommenlaan 12 \
-9050 Gent \
+9050 Ghent \
 Belgium
 
 [<button>Back</button>](./)
