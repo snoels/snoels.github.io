@@ -6,4 +6,4 @@ description: Some information about me
 
 ## Welcome to another page
 
-[back](./)
+[Back](./)
