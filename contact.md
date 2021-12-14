@@ -8,16 +8,15 @@ description: My personal contact information.
 
 ### SANDER NOELS
 
-Ph.D. Candidate at [AIDA](https://aida.ugent.be/), [Ghent University](https://www.ugent.be/en)
-IDLab, ELIS department, Ghent University
-AA Tower
-Technologiepark-Zwijnaarde 122
-9052 Ghent
-Belgium
+Ph.D. Candidate at [AIDA](https://aida.ugent.be/), [Ghent University](https://www.ugent.be/en) \
+IDLab, ELIS department, Ghent University \
+AA Tower - Technologiepark-Zwijnaarde 122 \
+9052 Ghent \
+Belgium 
 
-Data Scientist at [Silverfin](https://www.silverfin.com/)
-Gaston Crommenlaan 12
-9050 Gent
+Data Scientist at [Silverfin](https://www.silverfin.com/) \
+Gaston Crommenlaan 12 \
+9050 Gent \
 Belgium
 
 [back](./)
