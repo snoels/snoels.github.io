@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About me
-description: Some information about me
+description: A short bio
 ---
 
 ## About me
