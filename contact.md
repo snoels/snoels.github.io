@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-description: My personal contact information.
+description: My personal contact information
 ---
 
 ## Contact
