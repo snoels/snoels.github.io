@@ -13,4 +13,4 @@ Manuscript submitted for publication 2021. \
 [<button class="button button2">Code</button>](https://github.com/snoels/earth-movers-graph-distance-metric)
 <br><br>
 
-[back](./)
+[Back](./)
