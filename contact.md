@@ -12,14 +12,14 @@ description: My personal contact information
 AA Tower - Technologiepark-Zwijnaarde 122 \
 9052 Ghent \
 Belgium \
-sander.noels@ugent.be
+[sander.noels@ugent.be](sander.noels@ugent.be)
 
 
 **Data Scientist at [Silverfin](https://www.silverfin.com/)** \
 Gaston Crommenlaan 12 \
 9050 Ghent \
 Belgium \
-sander.noels@silverfin.com
+[sander.noels@silverfin.com](sander.noels@silverfin.com)
 
 [Back](./)
 
