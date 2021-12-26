@@ -14,5 +14,8 @@ page:
   contact: https://snoels.github.io/contact.html
   publications: https://snoels.github.io/publications.html
   about: https://snoels.github.io/about.html
+
+plugins:
+  - jekyll-seo-tag
   
 header_page_refs: ['contact', 'publications']
