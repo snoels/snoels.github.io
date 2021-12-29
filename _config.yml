@@ -17,5 +17,6 @@ page:
 
 plugins:
   - jekyll-seo-tag
+  - jemoji
   
 header_page_refs: ['contact', 'publications']
