@@ -6,10 +6,9 @@ description: Browse through my personal universe.
 ---
 
 ## Welcome!
+  
+<p align="center">
+  <img src="./images/profile_picture.jpeg" />
+</p>
 
-<span>
-<img style= "text-align:center; display:block;" src="./images/profile_picture.jpeg">
-</span>
-<span>
 I am a Ph.D. candidate of the Ghent University Artificial Intelligence & Data Analysis group ([AIDA](https://aida.ugent.be/)) while working as a data scientist for [Silverfin](https://www.silverfin.com/).
-</span>
