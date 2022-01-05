@@ -6,5 +6,6 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jemoji"
   gem "jekyll-sitemap"
+  gem "jekyll-theme-cayman"
 
 end
