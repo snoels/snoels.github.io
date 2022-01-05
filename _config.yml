@@ -6,7 +6,7 @@ show_downloads: true
 github:
   url: https://github.com/snoels
   name: snoels
-  
+
 linkedin:
   url: https://www.linkedin.com/in/sander-noels-79411815a/
 
@@ -18,5 +18,6 @@ page:
 plugins:
   - jekyll-seo-tag
   - jemoji
-  
+  - jekyll-sitemap
+
 header_page_refs: ['contact', 'publications']
