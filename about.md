@@ -14,7 +14,9 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 
 
 Take a look at my most recent posts: \
-**[An introduction into local differential privacy.](https://medium.com/@sandernoels/an-introduction-into-local-differential-privacy-ecb413f9c9fa)**
+**[An Introduction into Local Differential Privacy](https://medium.com/@sandernoels/an-introduction-into-local-differential-privacy-ecb413f9c9fa)**
 [<button class="button button1">Link</button>](https://medium.com/@sandernoels/an-introduction-into-local-differential-privacy-ecb413f9c9fa)
+**[An Earth Mover’s Distance Based Graph Distance Metric For Financial Statements](https://medium.com/@sandernoels/an-earth-movers-distance-based-graph-distance-metric-for-financial-statements-1f9ae0594853)**
+[<button class="button button1">Link</button>](https://medium.com/@sandernoels/an-earth-movers-distance-based-graph-distance-metric-for-financial-statements-1f9ae0594853)
 
 [Back](./)
