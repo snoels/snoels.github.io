@@ -14,9 +14,7 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 
 ### Blog Posts
 - **[An Introduction into Local Differential Privacy](https://medium.com/@sandernoels/an-introduction-into-local-differential-privacy-ecb413f9c9fa)**
-[<button class="button button1">Link</button>](https://medium.com/@sandernoels/an-introduction-into-local-differential-privacy-ecb413f9c9fa) \
 - **[An Earth Mover’s Distance Based Graph Distance Metric For Financial Statements](https://medium.com/@sandernoels/an-earth-movers-distance-based-graph-distance-metric-for-financial-statements-1f9ae0594853)**
-[<button class="button button1">Link</button>](https://medium.com/@sandernoels/an-earth-movers-distance-based-graph-distance-metric-for-financial-statements-1f9ae0594853)
 
 ### Teaching Experience and Followed Courses
 - Teaching Assistant: Uncertainty Modelling and Systems Science, Ghent University, 2021
