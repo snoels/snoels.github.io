@@ -15,6 +15,7 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 ### Blog Posts
 - **[An Introduction into Local Differential Privacy](https://medium.com/@sandernoels/an-introduction-into-local-differential-privacy-ecb413f9c9fa)**
 - **[An Earth Mover’s Distance Based Graph Distance Metric For Financial Statements](https://medium.com/@sandernoels/an-earth-movers-distance-based-graph-distance-metric-for-financial-statements-1f9ae0594853)**
+- **[Unlocking the Power of GPT-4 for Automated Financial Analysis with Silverfin](https://engineering.silverfin.com/unlocking-the-power-of-gpt-4-for-automated-financial-analysis/)**
 
 ### Teaching Experience and Followed Courses
 - Teaching Assistant: Uncertainty Modelling and Systems Science, Ghent University, 2021
@@ -25,5 +26,6 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 ### Attended Conferences
 - IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr), 2022 
 - Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2022
+- Oxford Machine Learning Summer School MLxFinance/NLP (OxML), 2023
 
 [Back](./)
