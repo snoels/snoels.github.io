@@ -16,6 +16,7 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 - **[An Introduction into Local Differential Privacy](https://medium.com/@sandernoels/an-introduction-into-local-differential-privacy-ecb413f9c9fa)**
 - **[An Earth Mover’s Distance Based Graph Distance Metric For Financial Statements](https://medium.com/@sandernoels/an-earth-movers-distance-based-graph-distance-metric-for-financial-statements-1f9ae0594853)**
 - **[Unlocking the Power of GPT-4 for Automated Financial Analysis with Silverfin](https://engineering.silverfin.com/unlocking-the-power-of-gpt-4-for-automated-financial-analysis/)**
+- **[Silverfin vaart de toekomst tegemoet (DUTCH)](https://www.silverfin.com/nl/resources/silverfin-vaart-de-toekomst-tegemoet)**
 
 ### Teaching Experience and Followed Courses
 - Teaching Assistant: Uncertainty Modelling and Systems Science, Ghent University, 2021
