@@ -24,9 +24,9 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 - Followed Course: Natural Language Processing, Ghent University, 2022
 - Followed Course: AI Research Seminar, Ghent University, 2022
 
-### Attended Conferences
+### Attended Conferences and Summer Schools
 - IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr), 2022 
 - Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2022
-- Oxford Machine Learning Summer School MLxFinance/NLP (OxML), 2023
+- [Oxford Machine Learning Summer School MLxFinance/NLP (OxML), 2023]()
 
 [Back](./)
