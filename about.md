@@ -27,6 +27,6 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 ### Attended Conferences and Summer Schools
 - IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr), 2022 
 - Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2022
-- [Oxford Machine Learning Summer School MLxFinance/NLP (OxML), 2023]()
+- [Oxford Machine Learning Summer School MLxFinance/NLP (OxML), 2023](papers/OxML2023_Certt_Sander_Noels.pdf)
 
 [Back](./)
