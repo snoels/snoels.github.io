@@ -22,6 +22,11 @@ In 2023 Intelligent Systems in Accounting, Finance, and Management. \
 **Sander Noels**, Adriaan Merlevede, Andrew Fecheyr, Maarten Vanhalst, Nick Meerlaen, Sébastien Viaene, Tijl De Bie. \
 In 2023 Joint European Conference on Machine Learning and Knowledge Discovery in Databases. \
 [<button class="button button1">Paper</button>](https://link.springer.com/chapter/10.1007/978-3-031-43430-3_28)
+<br>
+**[TopoLedgerBERT: Topological Learning of Ledger Description Embeddings using Siamese BERT-Networks.](https://arxiv.org/pdf/2407.05175)**   
+**Sander Noels**, Sébastien Viaene, Tijl De Bie. \
+In Joint Workshop of the 8th Financial Technology and Natural Language Processing (FinNLP) and the 1st Agent AI for Scenario Planning (AgentScen) @ IJCAI 2024. \
+[<button class="button button1">Paper</button>](https://arxiv.org/pdf/2407.05175)
 <br><br>
 
 
