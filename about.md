@@ -28,6 +28,7 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 - IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr), 2022 
 - Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2022
 - [Oxford Machine Learning Summer School MLxFinance/NLP (OxML), 2023](./papers/OxML2023_Certt_Sander_Noels.pdf)
-- Oxford Machine Learning Summer School MLx Representation Learning & Generative AI  (OxML), 2024
+- [Oxford Machine Learning Summer School MLx Representation Learning & Generative AI  (OxML), 2024](./papers/OxML2024_Certt_Sander_Noels.pdf)
+- International Joint Conference on Artificial Intelligence (IJCAI), 2024
 
 [Back](./)
