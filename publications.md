@@ -27,10 +27,10 @@ In 2023 Joint European Conference on Machine Learning and Knowledge Discovery in
 **Sander Noels**, Sébastien Viaene, Tijl De Bie. \
 In Joint Workshop of the 8th Financial Technology and Natural Language Processing (FinNLP) and the 1st Agent AI for Scenario Planning (AgentScen) @ IJCAI 2024. \
 [<button class="button button1">Paper</button>](https://arxiv.org/pdf/2407.05175)
-<br>
-**[A Dutch Financial Large Language Model.](https://arxiv.org/abs/2410.12835)**   
+<be>
+**[A Dutch Financial Large Language Model.](https://doi.org/10.1145/3677052.3698628)**   
 **Sander Noels**, Jorne De Blaere, Tijl De Bie. \
-ArXiv Pre-Print 2024. \
+In Proceedings of the 5th ACM International Conference on AI in Finance (ICAIF 2024), New York, NY, USA. \
 [<button class="button button1">Paper</button>](https://arxiv.org/abs/2410.12835)
 [<button class="button button2">Code</button>](https://github.com/snoels/fingeit)
 [<button class="button button3">Model</button>](https://huggingface.co/snoels/FinGEITje-7B-sft)
