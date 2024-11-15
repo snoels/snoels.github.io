@@ -42,6 +42,11 @@ ArXiv Pre-Print 2024. \
 [<button class="button button1">Paper</button>](https://arxiv.org/abs/2410.18417)
 [<button class="button button2">Code</button>](https://github.com/aida-ugent/llm-ideology-analysis)
 [<button class="button button3">Data</button>](https://huggingface.co/datasets/ajrogier/llm-ideology-analysis)
+<br>
+**[Persuasion with Large Language Models: a Survey.](https://arxiv.org/abs/2411.06837)**   
+Alexander Rogiers, **Sander Noels**, Maarten Buyl, Tijl De Bie. \
+ArXiv Pre-Print 2024. \
+[<button class="button button1">Paper</button>](https://arxiv.org/abs/2411.06837)
 <br><br>
 
 
