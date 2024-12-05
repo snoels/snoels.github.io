@@ -30,5 +30,9 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 - [Oxford Machine Learning Summer School MLxFinance/NLP (OxML), 2023](./papers/OxML2023_Certt_Sander_Noels.pdf)
 - [Oxford Machine Learning Summer School MLx Representation Learning & Generative AI  (OxML), 2024](./papers/OxML2024_Certt_Sander_Noels.pdf)
 - [International Joint Conference on Artificial Intelligence (IJCAI), 2024](./papers/H84922.pdf)
+- International Conference on AI in Finance (ICAIF), 2024
+
+### Affiliations
+I am a member of [The Fin AI](https://www.thefin.ai/home), a working group established to spearhead open science, tooling, and model initiatives in the financial sector. 
 
 [Back](./)
