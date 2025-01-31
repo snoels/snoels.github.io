@@ -17,6 +17,7 @@ Besides my focus on company benchmarking, I am also interested in graph machine 
 - **[An Earth Mover’s Distance Based Graph Distance Metric For Financial Statements](https://medium.com/@sandernoels/an-earth-movers-distance-based-graph-distance-metric-for-financial-statements-1f9ae0594853)**
 - **[Unlocking the Power of GPT-4 for Automated Financial Analysis with Silverfin](https://engineering.silverfin.com/unlocking-the-power-of-gpt-4-for-automated-financial-analysis/)**
 - **[Silverfin vaart de toekomst tegemoet (DUTCH)](https://www.silverfin.com/nl/resources/silverfin-vaart-de-toekomst-tegemoet)**
+- **[DeepSeek’s Refusals: How Do the Guardrails of Language Models Compare? 🐋⛔️](https://medium.com/@snoels/deepseeks-refusals-how-do-the-guardrails-of-language-models-compare-%EF%B8%8F-97aafbece58b)**
 
 ### Teaching Experience and Followed Courses
 - Teaching Assistant: Uncertainty Modelling and Systems Science, Ghent University, 2021
